@@ -1,0 +1,47 @@
+.box{
+	background-color: orange;
+	height: 200px;
+	margin: 10px 0;
+}
+
+.box2{
+	background-color: darkmagenta;
+	height: 200px;
+	margin: 10px 0;
+}
+
+.box3{
+	background-color: darkorange;
+	height: 200px;
+	margin: 10px 0;
+}
+.box4{
+	background-color: darkturquoise;
+	height: 200px;
+	margin: 10px 0;
+}
+.box5{
+	background-color: darkslateblue;
+	height: 200px;
+	margin: 10px 0;
+}
+.box6{
+	background-color: darkred;
+	height: 200px;
+	margin: 10px 0;
+}
+.box7{
+	background-color: darksalmon;
+	height: 200px;
+	margin: 10px 0;
+}
+.box8{
+	background-color: darkorchid;
+	height: 200px;
+	margin: 10px 0;
+}
+.box9{
+	background-color: darkgray;
+	height: 200px;
+	margin: 10px 0;
+}
